@@ -1,0 +1,4 @@
+.vscode
+tests/
+shell/bin
+shell/obj
